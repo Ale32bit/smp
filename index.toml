@@ -271,6 +271,11 @@ hash = "feeee060f81012d4a69bb47e6d50886182cc28370978e1b5edab645213a0ed96"
 metafile = true
 
 [[files]]
+file = "mods/randomtp.pw.toml"
+hash = "78bb399f217b203d168122f525499647de393e0ab6967c3a12b1a16083aa7693"
+metafile = true
+
+[[files]]
 file = "mods/reauth.pw.toml"
 hash = "da46985b92972295e91b1a3365b79fdd526ce3f7000c56e4975fa63112f57837"
 metafile = true
