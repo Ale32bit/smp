@@ -381,6 +381,11 @@ hash = "8ff48d18f2fbe8df674dcd79aabcece27808667c270401b06ac10c97d7552990"
 metafile = true
 
 [[files]]
+file = "mods/wireless-chargers.pw.toml"
+hash = "019987ced8680057811d520366ac20a86de9fc8d70390c2aa98f4d36937ae543"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "59278f4f0b7d2567ba9fa6ed5de34d84bc200ff538d5ee78b30bfb882035c092"
 metafile = true
