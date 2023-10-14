@@ -261,6 +261,11 @@ hash = "ad64853eb5ba56dc6e4b1bb9214dbfe28e2a0c865dc76b4b77edee0f11adceff"
 metafile = true
 
 [[files]]
+file = "mods/more-red.pw.toml"
+hash = "8e17e82afa8b664f2f1dabbe72fcd172d14e5a431e67a0c0053d617c0560a8de"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
