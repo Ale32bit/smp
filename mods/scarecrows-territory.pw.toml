@@ -1,0 +1,13 @@
+name = "Scarecrows' Territory"
+filename = "scarecrowsterritory-1.1.11-fabric-mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c15f9bdf706a10af7fcc8331a4e5561239d0c3d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4733603
+project-id = 435965
