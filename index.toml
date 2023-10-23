@@ -361,6 +361,11 @@ hash = "8def45a48d62b220050f5b7c290dda439c71bdb1e30120f63eb15242b7e4517c"
 metafile = true
 
 [[files]]
+file = "mods/scarecrows-territory.pw.toml"
+hash = "96d4032371d7a54173d3120fd7ed5cc5e784bbe31fc70a35defdabc3a3a3b665"
+metafile = true
+
+[[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "0f1b9970b4dddf8ff69a778c25dcadda8e91e0305c26581ebb7c1d7f54c3b7f9"
 metafile = true
