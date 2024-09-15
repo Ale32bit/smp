@@ -9,6 +9,10 @@ file = "img/bg.png"
 hash = "febf276919d703071c28130a2f7536e9496b1cc87beb70fb31713d1856188fea"
 
 [[files]]
+file = "img/bluemap.png"
+hash = "8768b87253c96e5244e06ab588c45fb9a71ea7c9f11bdbd5a7d1363a3845b2cb"
+
+[[files]]
 file = "img/discord.svg"
 hash = "6282c3241205af13cbcaed5d40edf7c52422e2792edca2963bf782ce8c1f5406"
 
@@ -21,8 +25,12 @@ file = "img/prism.svg"
 hash = "0107b159cd6e69db6c610a534f02370550894327d5d8067f8f1356b21c85c671"
 
 [[files]]
+file = "img/track.png"
+hash = "d0dbde53d7be8f87a364c9a790a714852cddcae56de331732375cc48c95047b9"
+
+[[files]]
 file = "index.html"
-hash = "d3bd4b747e15cac9294170aeaa0ff671f812dfc875c2c51f85ca0ba23ac46c6a"
+hash = "05b6cbde0b36f222c8bcb3d05a8f0dccf3616486130ab3b8d3771e1076b72f79"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
@@ -526,8 +534,8 @@ metafile = true
 
 [[files]]
 file = "railway.html"
-hash = "7b82a7462297282b13c9d4d8c172d6bffd2f22d791086664ac9858bacf1ed3bf"
+hash = "1d5d616ed47401016f606fb7983aea7fa8c9af20af6fe97e3a9102e09e1ff002"
 
 [[files]]
 file = "style.css"
-hash = "91f4b3f2e88092b0c079f29b96caefc116f89486e2bd343303e7dc4e8e55a032"
+hash = "7e59c1223ec05c0c80246aef700122e5b2b61ec4cf231e1e04aa3476f59e18c5"
